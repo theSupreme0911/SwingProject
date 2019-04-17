@@ -6,4 +6,4 @@ At constant intervals, there is a new element added (drawn), which values are ps
 
 Resizing a window is followed by rescaling all drawn elements.
 
-Program has to save information about generated shapes to a file 
+Program has to save information about generated shapes to a file.
