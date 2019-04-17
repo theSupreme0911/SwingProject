@@ -13,7 +13,7 @@ It consists of a window, which reads information about shapes from a file and dr
 
 Resizing a window is followed by rescaling all drawn elements.
 
-Additional description
+## Additional description
 Modules are understood as two parts of an application. It does not implicate necessity of using modules or packages available by Java language.
 
 Using “Object Streams” classes is now allowed.
